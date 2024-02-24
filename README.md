@@ -1,1 +1,1 @@
-# GBJavaBaseFinalHW
+# Final homework (java beginers course)
